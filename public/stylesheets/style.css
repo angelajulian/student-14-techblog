@@ -87,6 +87,12 @@ header {
 
 header h1 {
   font-size: 1em;
+  color: mediumslateblue;
+}
+
+header a {
+  text-decoration: none;
+  color: mediumslateblue;
 }
 
 main {
